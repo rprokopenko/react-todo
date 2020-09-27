@@ -1,6 +1,6 @@
 ## See this project: ....soon
 
-## Technologies that were used in this project:
+## This is what I used in this project:
 - ReactJS (useState, useReducer, useEffect)
 - Axios 
 - json-server 
