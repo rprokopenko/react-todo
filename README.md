@@ -1,3 +1,15 @@
+## See this project: ....soon
+
+## Technologies that were used in this project:
+- ReactJS (useState, useReducer, useEffect)
+- Axios 
+- json-server 
+- React Router 
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
