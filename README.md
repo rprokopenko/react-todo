@@ -5,6 +5,7 @@
 - Axios 
 - json-server 
 - React Router 
+- SCSS
 
 
 
