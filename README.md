@@ -1,6 +1,6 @@
 ## See this project: ....soon
 
-## This is what I used in this project:
+## Stack:
 - ReactJS (useState, useReducer, useEffect)
 - Axios 
 - json-server 
