@@ -1,3 +1,16 @@
+## See this project: ....soon
+
+## Stack:
+- ReactJS (useState, useReducer, useEffect)
+- Axios 
+- json-server 
+- React Router 
+- SCSS
+
+
+
+
+## More
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
